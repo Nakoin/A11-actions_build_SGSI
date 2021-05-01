@@ -1,14 +1,14 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.35_OTA_0350_all_2103232117_5a455e79c52e47d2.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://hugeota.d.miui.com/V12.5.1.0.RFBCNXM/miui_GRUS_V12.5.1.0.RFBCNXM_0aa6dd99a1_11.0.zip",
+  "rom_name": "https://hugeota.d.miui.comiui_GRUS_V12.5.1.0.RFBCNXM.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "h2os",
+  "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
-  "upload_release": false,
-  "use_7zip": false,
+  "upload_release": true,
+  "use_7zip": true,
   "use_zip": true
 }
